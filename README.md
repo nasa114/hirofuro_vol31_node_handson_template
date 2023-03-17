@@ -1,5 +1,7 @@
 # 広島フロントエンド勉強会 Vol.31 「フロントエンジニア向け Node.js ハンズオン」
 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/nasa114/hirofuro_vol31_node_handson_template/tree/main)
+
 このレポジトリは広島フロントエンド勉強会 Vol.31 で利用するフロントエンジニア向け Node.js ハンズオンで利用するベースレポジトリです。
 
 プロジェクトの初期化などを行いますが、基本的には本レポジトリを中心に使います。
