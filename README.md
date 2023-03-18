@@ -27,6 +27,12 @@ npm init .
 npm install --save-dev @types/jest@29.4.0 eslint@8.35.0 eslint-config-standard@17.0.0 eslint-plugin-import@2.27.5 eslint-plugin-jest@27.2.1 eslint-plugin-n@15.6.1 eslint-plugin-promise@6.1.1 jest@29.4.3
 ```
 
+## テストコマンド
+
+```
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js --config ./jest.config.mjs"
+```
+
 ## ハンズオンでやること
 
 - Hello World を出力してみよう
